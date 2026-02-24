@@ -4,7 +4,7 @@
 
 :root {
  
-  --app-bg: url(https://i.imgur.com/UMPZorW.jpeg);
+  --app-bg: url(https://i.imgur.com/GpJwOiT.jpeg);
   --app-blur: 0px;
   --app-margin: 8px;
   --app-radius: 10px;
@@ -14,7 +14,7 @@
 
   --accent-hue: 214;
   --accent-saturation: 79%;
-  --accent-lightness: 53%;
+  --accent-lightness: 0%;
 
   --card-color: hsl(0, 0%, 0%, 0.4);
   --card-color-hover: hsl(0, 0%, 0%, 0.5);
